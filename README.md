@@ -4,7 +4,7 @@ The dataset consists of individual profiles, each uniquely identified by an ID. 
 # Data Cleaning
 Removed duplicate entries from the dataset to ensure data accuracy. Replaced abbreviations for marital status and gender with their corresponding full forms. Formatted the income data to reflect currency values. Categorized variables such as children, education, occupation, cars, commute distance, and region. Also created age brackets using conditional statements to group individuals based on their age ranges. Defined categories such as "Adolescent," "Middle Age," and "Old" based on specific age ranges.
 # Pivot Tables and Visualizations
-Utilized pivot tables to analyze data and build the dashboard. Created visualizations, including charts and graphs, to represent key insights from the dataset.
+Utilized pivot tables to analyze data and build the dashboard. Created visualizations, including charts and graphs, to represent key insights from the dataset based on the below Categories.
 * Average Income by Bike Purchase and Gender
 * Commute Distance and Bike Purchases
 * Age Brackets and Bike Purchases
